@@ -10,3 +10,5 @@ zajecia styczen
 # zajecia z gita <h3>
 
 nowy branch
+
+kolejny commit

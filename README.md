@@ -5,5 +5,6 @@ moj pierwszy commit
 ![GitHub Logo](https://media.wkbn.com/nxs-wkbntv-media-us-east-1/photo/2018/04/05/coggeshall-zombie-raccoon-youngstown_1522963496915_39192477_ver1.0_640_360.jpg)
 
 frrrreeeeeaaaaddddooommmmmmmmmmmmmmmmmmmmmmmmm
+
 zajecia styczen
 # zajecia z gita <h3>
